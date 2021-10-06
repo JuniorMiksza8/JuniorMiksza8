@@ -50,4 +50,7 @@ Currently im learning [NextJS](https://nextjs.org/) and SEO techniques and hope 
 | Pokedex         | A simple pokedex made with NextJs                                    | JS / React.js | [JuniorMiksza8/pokedex](https://github.com/JuniorMiksza8/pokedex)                          |
 | Dev test        | A test i made for a FullStack job opportunity                        | JS / React.js | [JuniorMiksza8/devtest-frontend](https://github.com/JuniorMiksza8/devtest-frontend)        |
 
+[Pokedex link](https://pokedex-lyart-nine.vercel.app)
+ 
+  
 </details>
