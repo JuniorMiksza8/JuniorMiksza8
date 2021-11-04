@@ -1,5 +1,5 @@
 # Hi,Welcome.
-I'm a 19-year-old Web Developer from Brazil. My main focus is React and NodeJS.
+I'm a 20-year-old Web Developer from Brazil. My main focus is React and NodeJS.
 Currently im learning [NextJS](https://nextjs.org/) and SEO techniques and hope to start on React Native soon.
 
 
