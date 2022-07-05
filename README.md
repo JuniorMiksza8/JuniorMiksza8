@@ -1,7 +1,9 @@
 # Hi,Welcome.
-I'm a 20-year-old Web Developer from Brazil. My main focus is React and NodeJS.
-Currently im learning [NextJS](https://nextjs.org/) and SEO techniques and hope to start on React Native soon.
+I'm a 20-year-old, Web Developer,with 3 years of experience on Software Development, from Brazil. My main focus is React and NodeJS.
 
+Latest project 
+  A NodeJS API made with typescript, clean archictecture, tdd and CI !
+  https://github.com/JuniorMiksza8/clean-user-microsservice
 
 ## Quick overview
 
